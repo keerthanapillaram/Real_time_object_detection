@@ -2,7 +2,7 @@
 
 ## Aim: To detect real time object detection using python and yolov4.
 
-### Reg.No:212223240069
+### Reg.No: 212223240069
 ### Name: P KEERTHANA
 
 ## Procedure:
